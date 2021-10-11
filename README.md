@@ -1,5 +1,5 @@
-# gdbserver
-静态gdbserver
+# gdbserver-arm
+静态gdbserver-arm
 ## 前置
 ```
 sudo apt-get install gcc-arm-linux-gnueabi
